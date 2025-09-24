@@ -1,0 +1,137 @@
+
+/* === Unheight overrides for list page ===
+   Place this file AFTER the original style.css.
+   Goal: remove page-height binding and absolute positioning that pins layout.
+*/
+
+/* 1) Root container — no fixed height */
+._5 {
+  height: auto !important;
+  min-block-size: 100%;
+  overflow: visible !important;
+  padding-block: clamp(6rem, 10svh, 10rem) 8rem; /* leave room for sticky header */
+}
+
+/* 2) Main content in normal flow, centered */
+._5__frame-2131329805 {
+  position: static !important;
+  margin-inline: auto !important;
+  width: min(136.4rem, 100% - 4rem) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 20rem !important;
+}
+
+/* 3) Card rows become responsive grid */
+._5__frame-2131329816,
+._5__frame-2131329900,
+._5__frame-2131329901,
+._5__frame-2131329902,
+._5__frame-2131329903,
+._5__frame-2131329904,
+._5__frame-2131329905 {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(28rem, 1fr)) !important;
+  gap: 2rem !important;
+  width: 100% !important;
+}
+
+/* 4) Each card column should be fluid width */
+._5__frame-2131329794,
+._5__frame-2131329889,
+._5__frame-2131329890,
+._5__frame-2131329891 {
+  width: auto !important;
+}
+
+/* 5) Visual tile uses aspect ratio instead of fixed height */
+._5__frame-2131329789 {
+  background: #15171b;
+  border-radius: 1.5rem;
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+}
+
+/* 6) All images fill their boxes; remove absolute coordinates */
+._5__frame-2131329789 img,
+._5__image-1,
+._5__image-12,
+._5__image-13,
+._5__image-3,
+._5__image-5 {
+  position: static !important;
+  inline-size: 100% !important;
+  block-size: 100% !important;
+  object-fit: cover !important;
+  inset: auto !important;
+}
+
+/* 7) Text columns grow naturally */
+._5__frame-2131329792,
+._5__frame-21313297932 {
+  width: 100% !important;
+  gap: 1.2rem !important;
+}
+._5__div2 { line-height: 1.3 !important; }
+._5__div3 { line-height: 1.5 !important; }
+
+/* 8) Footer in normal flow, centered and wrapping when needed */
+._5__frame-2131329808,
+._5__group-37,
+._5__frame-68,
+._5__expert-checks-for-the-world-s-most-popular-brands {
+  position: static !important;
+  width: min(136.4rem, 100% - 4rem) !important;
+  margin-inline: auto !important;
+}
+._5__frame-58 {
+  position: static !important;
+  flex-wrap: wrap !important;
+  gap: 2rem !important;
+}
+
+/* 9) Top bar — sticky and fluid */
+._5__div8 {
+  position: sticky !important;
+  top: 0;
+  inset-inline: 0;
+  width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  padding: 0.4rem min(2rem, 4vw) !important;
+  z-index: 100 !important;
+}
+._5__shadowing { left: 0 !important; width: 100% !important; }
+._5__div9, ._5__get-stardet, ._5__div11 { position: static !important; }
+._5__div11 { width: 100% !important; }
+
+/* 10) Buttons/links without fixed heights */
+._5__home,
+._5__features,
+._5__about-us,
+._5__pricing,
+._5__faq {
+  height: auto !important;
+}
+
+/* 11) Small adjustments */
+._5__frame-2131329806 { height: auto !important; }
+
+/* 12) Responsive tweaks */
+@media (max-width: 1024px) {
+  ._5__frame-2131329805 { gap: 8rem !important; }
+}
+@media (max-width: 640px) {
+  ._5__frame-2131329812 { gap: 2rem !important; }
+  ._5__frame-2131329816,
+  ._5__frame-2131329900,
+  ._5__frame-2131329901,
+  ._5__frame-2131329902,
+  ._5__frame-2131329903,
+  ._5__frame-2131329904,
+  ._5__frame-2131329905 {
+    grid-template-columns: 1fr !important;
+  }
+}
