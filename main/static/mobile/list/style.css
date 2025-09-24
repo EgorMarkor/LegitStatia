@@ -1,0 +1,637 @@
+._2,
+._2 * {
+  box-sizing: border-box;
+}
+._2 {
+  background: var(
+    --fon-3,
+    linear-gradient(43.41deg, rgba(8, 9, 12, 1) 0%, rgba(13, 14, 18, 1) 100%)
+  );
+  height: 479rem;
+  position: relative;
+  overflow: hidden;
+}
+._2__frame-2131329595 {
+  width: 39rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  overflow: hidden;
+}
+._2__frame-2131329944 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.1rem;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 3.4rem;
+  top: 1.3rem;
+}
+._2__div {
+  flex-shrink: 0;
+  width: 13rem;
+  height: 5.8rem;
+  position: relative;
+}
+._2__frame-1948754034 {
+  display: flex;
+  flex-direction: row;
+  gap: 1.3rem;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0rem;
+  top: 1rem;
+}
+._2__frame-1948754035 {
+  flex-shrink: 0;
+  width: 3.2rem;
+  height: 3.777rem;
+  position: relative;
+}
+._2___1 {
+  width: 3.2rem;
+  height: 3.777rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  object-fit: cover;
+  aspect-ratio: 32/37.77;
+}
+._2__frame-1948754036 {
+  flex-shrink: 0;
+  width: 8.6rem;
+  height: 1.8rem;
+  position: relative;
+}
+._2__legit-check {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 1.6400800704956056rem;
+  line-height: 1.693rem;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2__btn {
+  background: linear-gradient(
+    180deg,
+    rgba(3, 215, 146, 1) 0%,
+    rgba(2, 113, 77, 1) 100%
+  );
+  border-radius: 1.2rem;
+  padding: 1.322rem 2.116rem 1.322rem 2.116rem;
+  display: flex;
+  flex-direction: row;
+  gap: 0.705rem;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 14.8rem;
+  height: 4.8rem;
+  position: relative;
+  overflow: hidden;
+}
+._2__div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GolosText-SemiBold", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2__frame-2131329937 {
+  display: flex;
+  flex-direction: column;
+  gap: 10rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 34.8rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 12.4rem;
+}
+._2__frame-2131329943 {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.8rem;
+  position: relative;
+}
+._2__div3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 2rem;
+  line-height: 6.5760000000000005rem;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  height: 1.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2__frame-2131329942 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.8rem;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2__frame-2131329893 {
+  display: flex;
+  flex-direction: row;
+  gap: 3.5rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2__frame-2131329794 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.7359999999999998rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.693rem;
+  position: relative;
+}
+._2__frame-2131329789 {
+  background: #15171b;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+  width: 34.693rem;
+  height: 21.883000000000003rem;
+  position: relative;
+  overflow: hidden;
+}
+._2__image-1 {
+  width: 34.907rem;
+  height: 34.907rem;
+  position: absolute;
+  left: 0rem;
+  top: -0.961rem;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+._2__frame-2131329792 {
+  display: flex;
+  flex-direction: column;
+  gap: 5.337rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.907rem;
+  position: relative;
+}
+._2__frame-2131329793 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.95rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.160000000000004rem;
+  position: relative;
+}
+._2__div4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 1.6rem;
+  line-height: 5.551rem;
+  font-weight: 700;
+  position: relative;
+}
+._2__div5 {
+  color: #626872;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 1.387730026245117rem;
+  line-height: 2.348rem;
+  font-weight: 400;
+  position: relative;
+  width: 34.160000000000004rem;
+}
+._2__frame-2131329810 {
+  display: flex;
+  flex-direction: row;
+  gap: 2.1350000000000002rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._2__frame-2131329809 {
+  display: flex;
+  flex-direction: row;
+  gap: 0.8539999999999999rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._2__person-svgrepo-com-1 {
+  flex-shrink: 0;
+  width: 1.815rem;
+  height: 1.815rem;
+  position: relative;
+  overflow: hidden;
+}
+._2__group {
+  width: 83.29%;
+  height: 100%;
+  position: absolute;
+  right: 8.35%;
+  left: 8.35%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._2__div6 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 1.4rem;
+  line-height: 3.843rem;
+  font-weight: 500;
+  position: relative;
+}
+._2__frame-2131329889 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.7359999999999998rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.8rem;
+  position: relative;
+}
+._2__image-3 {
+  width: 39.589rem;
+  height: 26.375999999999998rem;
+  position: absolute;
+  left: -2.455rem;
+  top: 0rem;
+  object-fit: cover;
+  aspect-ratio: 395.89/263.76;
+}
+._2__group2 {
+  width: 83.29%;
+  height: 100%;
+  position: absolute;
+  right: 8.35%;
+  left: 8.35%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._2__frame-2131329890 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.7359999999999998rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.693rem;
+  position: relative;
+}
+._2__group3 {
+  width: 83.29%;
+  height: 100%;
+  position: absolute;
+  right: 8.35%;
+  left: 8.35%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._2__frame-2131329892 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.7359999999999998rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.693rem;
+  position: relative;
+}
+._2__group4 {
+  width: 83.29%;
+  height: 100%;
+  position: absolute;
+  right: 8.35%;
+  left: 8.35%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._2__frame-21313298932 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.7359999999999998rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.8rem;
+  position: relative;
+}
+._2__group5 {
+  width: 83.29%;
+  height: 100%;
+  position: absolute;
+  right: 8.35%;
+  left: 8.35%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._2__frame-2131329894 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.7359999999999998rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.693rem;
+  position: relative;
+}
+._2__group6 {
+  width: 83.29%;
+  height: 100%;
+  position: absolute;
+  right: 8.35%;
+  left: 8.35%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._2__frame-2131329895 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.7359999999999998rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.8rem;
+  position: relative;
+}
+._2__group7 {
+  width: 83.29%;
+  height: 100%;
+  position: absolute;
+  right: 8.35%;
+  left: 8.35%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._2__frame-2131329891 {
+  display: flex;
+  flex-direction: column;
+  gap: 3.7359999999999998rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.8rem;
+  position: relative;
+}
+._2__group8 {
+  width: 83.29%;
+  height: 100%;
+  position: absolute;
+  right: 8.35%;
+  left: 8.35%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._2__frame-2131329948 {
+  display: flex;
+  flex-direction: column;
+  gap: 4.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 34.8rem;
+  position: relative;
+}
+._2__frame-2131329946 {
+  display: flex;
+  flex-direction: column;
+  gap: 2.2rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2__group-3 {
+  flex-shrink: 0;
+  width: 13.1rem;
+  height: 3.777rem;
+  position: static;
+}
+._2__frame-19487540342 {
+  display: flex;
+  flex-direction: row;
+  gap: 1.3rem;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+._2___2025-legit-check {
+  color: #626872;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+._2__expert-checks-for-the-world-s-most-popular-brands {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  position: relative;
+}
+._2__frame-2131329947 {
+  display: flex;
+  flex-direction: column;
+  gap: 4.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 20.9rem;
+  position: relative;
+}
+._2__frame-2131329808 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 16.8rem;
+  position: relative;
+}
+._2__frame-58 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2__div7 {
+  color: #626872;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  align-self: stretch;
+}
+._2__frame-65 {
+  display: flex;
+  flex-direction: row;
+  gap: 1.2rem;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2__frame-59 {
+  background: #15171b;
+  border-radius: 2.4rem;
+  padding: 1.2rem;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 4.8rem;
+  height: 4.8rem;
+  position: relative;
+}
+._2__instagram-1 {
+  flex-shrink: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+._2__frame-60 {
+  background: #15171b;
+  border-radius: 2.4rem;
+  padding: 1.2rem;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 4.8rem;
+  height: 4.8rem;
+  position: relative;
+}
+._2__discord-1 {
+  flex-shrink: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+._2__frame-62 {
+  background: #15171b;
+  border-radius: 2.4rem;
+  padding: 1.2rem;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 4.8rem;
+  height: 4.8rem;
+  position: relative;
+}
+._2__twitter-1 {
+  flex-shrink: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+._2__frame-57 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2__frame-54 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2__div8 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+._2__div9 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  position: relative;
+}
